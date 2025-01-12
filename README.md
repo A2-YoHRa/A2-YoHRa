@@ -8,15 +8,15 @@
 
 ## 😖 About Me:
 
-    🛡️   Pentester / Forensic Analyst
+    👩‍💻   Pentester / Forensic Analyst
 
 ---
 
 ## 💡 Cybersecurity Project:
 
-🔒 YoHRa Center: A Golang-powered Discord bot for OSINT research on public profiles and websites.
+🫳🏻 YoHRa Center: A Golang-powered Discord bot for OSINT research on public profiles and websites.
 
-🔒 YoHRa Tester (In Progress): A Golang-based tool for automated security testing on websites and networks.
+🫴🏻 YoHRa Tester (In Progress): A Golang-based tool for automated security testing on websites and networks.
 
 
 ---
