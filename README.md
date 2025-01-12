@@ -31,5 +31,7 @@
 
 💀 Cybersecurity fact:
 
-👾 One noteworthy cybersecurity fact is that weak or stolen passwords account for a high percentage of cyber incidents. According to various industry reports, poor password practices (like reusing passwords across multiple sites) remain a leading cause of breaches. Adopting stronger password policies and implementing multi-factor authentication (MFA) are two critical steps in significantly reducing this risk.
+👾  One noteworthy cybersecurity fact is that weak or stolen passwords account for a high percentage of cyber incidents. 
+    According to various industry reports, poor password practices (like reusing passwords across multiple sites) remain a leading cause of breaches. 
+    Adopting stronger password policies and implementing multi-factor authentication (MFA) are two critical steps in significantly reducing this risk.
 ---
