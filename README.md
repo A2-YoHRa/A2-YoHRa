@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=YoHRA+Unit+Type+A+N°2)](https://git.io/typing-svg)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=YoRHa+Unit+Type+A+N°2)](https://git.io/typing-svg)
 
 <p align="center">
     <img align="center" src="https://c.tenor.com/ECxArdaecCAAAAAC/tenor.gif" alt="Gif Banner" width="600" />
