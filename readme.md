@@ -1,7 +1,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=YoHRA+Unit+Type+A+N°2)](https://git.io/typing-svg)
 
 <p align="center">
-    <img align="center" src="https://tenor.com/view/a2-a2-nier-nier-automata-number-2-number-two-gif-1165377518956343328">
+    <img align="center" src="https://c.tenor.com/ECxArdaecCAAAAAC/tenor.gif">
 </p>
 
 ---
